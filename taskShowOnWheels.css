@@ -1,0 +1,25 @@
+body {
+    width: 80vw;
+    margin: auto;
+    padding-top: 25px;
+}
+
+header {
+    display: flex;
+}
+
+#logo {
+    height: 50px;
+    width: 50px;
+    border: none;
+    border-radius: 50%;
+}
+
+#nav {
+    display: flex;
+    gap: 20px
+}
+
+li {
+    list-style-type: none;
+}
